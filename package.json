@@ -1,0 +1,10 @@
+{
+  "name": "com.placeb.meshcut",
+  "displayName": "Mesh Cut",
+  "version": "1.0.0",
+  "unity": "2018.3",
+  "description": "The description of your package",
+  "keywords": [ "package", "unity", "yeah" ],
+  "dependencies": {
+  }
+}
